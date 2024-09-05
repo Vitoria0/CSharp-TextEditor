@@ -1,0 +1,14 @@
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\bin\Debug\net8.0\textEditor.exe
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\bin\Debug\net8.0\textEditor.deps.json
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\bin\Debug\net8.0\textEditor.runtimeconfig.json
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\bin\Debug\net8.0\textEditor.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\bin\Debug\net8.0\textEditor.pdb
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\textEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\textEditor.AssemblyInfoInputs.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\textEditor.AssemblyInfo.cs
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\textEditor.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\textEditor.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\refint\textEditor.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\textEditor.pdb
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\textEditor.genruntimeconfig.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\textEditor\obj\Debug\net8.0\ref\textEditor.dll
